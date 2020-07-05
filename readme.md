@@ -8,3 +8,6 @@
 - If you don't have an account, you can register by clicking 'Sign Up'. This is the sign up page below, here Django signal takes care of the user profile creation with password hashing and other validation checks.
 ![alt text](https://github.com/santoshrajkumar/userprofile_CRUD_functionality_with_Django_signals/blob/master/images/2.png?raw=true)
 
+- When logged in, one can Read information of all the user profiles (including self) present in the database (index page):
+![alt text](https://github.com/santoshrajkumar/userprofile_CRUD_functionality_with_Django_signals/blob/master/images/3.png?raw=true)
+
