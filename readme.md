@@ -1,5 +1,7 @@
 # User Profile with CRUD functionality in Django
 
+https://smruserprofilecrud.herokuapp.com/ (id: santosh, password 12345 for test)
+
 ### Explanation of functionality
 - When root directory is accessed, the login page will come up (without login, index page can't be viewed). This is the login page. 
 
